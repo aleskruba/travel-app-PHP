@@ -2,8 +2,8 @@
     
 return  [
 'database'=> [
-    'host' => 'sql22.web4u.cz',
-    'dbname'=> 'traveldb',
+    'host' => '',
+    'dbname'=> '',
     'charset=utf8mb4"'
 
     ]
