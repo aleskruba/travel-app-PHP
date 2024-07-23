@@ -9,7 +9,7 @@ class Database
     public $statement;
 
 
-    public function __construct($config,$username ='aleskruba',$password='Heslo12345')
+    public function __construct($config,$username ='',$password='')
     {
 
   
