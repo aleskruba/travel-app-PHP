@@ -1,0 +1,20 @@
+{
+    "name": "alesk/travel",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Models\\": "Models/",
+            "Html\\": "Html/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ales"
+        }
+    ],
+    "require": {
+        "intervention/image": "2",
+        "phpmailer/phpmailer": "^6.9",
+        "google/apiclient": "~2.0"
+    }
+}

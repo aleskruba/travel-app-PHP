@@ -1,0 +1,32 @@
+Received POST data:
+Array
+(
+    [message_id] => 564
+    [vote_type] => thumb_down
+)
+
+
+Received POST data:
+Array
+(
+    [message_id] => 564
+    [vote_type] => thumb_down
+)
+
+
+Received POST data:
+Array
+(
+    [message_id] => 564
+    [vote_type] => thumb_down
+)
+
+
+Received POST data:
+Array
+(
+    [messageId] => 564
+    [voteType] => thumb_down
+)
+
+
